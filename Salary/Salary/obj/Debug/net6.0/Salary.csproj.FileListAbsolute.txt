@@ -1,0 +1,15 @@
+D:\personal\itstep\C#\Exam\final\Project\Salary\Salary\bin\Debug\net6.0\Salary.exe
+D:\personal\itstep\C#\Exam\final\Project\Salary\Salary\bin\Debug\net6.0\Salary.deps.json
+D:\personal\itstep\C#\Exam\final\Project\Salary\Salary\bin\Debug\net6.0\Salary.runtimeconfig.json
+D:\personal\itstep\C#\Exam\final\Project\Salary\Salary\bin\Debug\net6.0\Salary.dll
+D:\personal\itstep\C#\Exam\final\Project\Salary\Salary\bin\Debug\net6.0\Salary.pdb
+D:\personal\itstep\C#\Exam\final\Project\Salary\Salary\obj\Debug\net6.0\Salary.csproj.AssemblyReference.cache
+D:\personal\itstep\C#\Exam\final\Project\Salary\Salary\obj\Debug\net6.0\Salary.GeneratedMSBuildEditorConfig.editorconfig
+D:\personal\itstep\C#\Exam\final\Project\Salary\Salary\obj\Debug\net6.0\Salary.AssemblyInfoInputs.cache
+D:\personal\itstep\C#\Exam\final\Project\Salary\Salary\obj\Debug\net6.0\Salary.AssemblyInfo.cs
+D:\personal\itstep\C#\Exam\final\Project\Salary\Salary\obj\Debug\net6.0\Salary.csproj.CoreCompileInputs.cache
+D:\personal\itstep\C#\Exam\final\Project\Salary\Salary\obj\Debug\net6.0\Salary.dll
+D:\personal\itstep\C#\Exam\final\Project\Salary\Salary\obj\Debug\net6.0\refint\Salary.dll
+D:\personal\itstep\C#\Exam\final\Project\Salary\Salary\obj\Debug\net6.0\Salary.pdb
+D:\personal\itstep\C#\Exam\final\Project\Salary\Salary\obj\Debug\net6.0\Salary.genruntimeconfig.cache
+D:\personal\itstep\C#\Exam\final\Project\Salary\Salary\obj\Debug\net6.0\ref\Salary.dll
